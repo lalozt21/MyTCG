@@ -1,0 +1,2 @@
+# MyTCG
+MyTCG Plataform
